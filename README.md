@@ -18,3 +18,4 @@ Layer 구성으로, LLL에서 거의 공통된 Function 또는 Class Name을 가
 현재는 많은 부분이 자동화가 되어 첫째 시간에 실습하기 위해 준비한 만큼의 시간은 필요하지 않음. <br />
 WindowsOS는 아직 미지원. 리눅스 기반 OS에서 작동 가능 <br />
 
+![image2](./image2.PNG)
