@@ -13,4 +13,4 @@ Layer 구성으로, LLL에서 거의 공통된 Function 또는 Class Name을 가
 ### 결론적으로 Maker 및 Prototyper는 이러한 “기술적 난이도”가 매우 높아 실제 팔 수 있는 물건을 내놓기가 쉽지 않음.
 ### Maker가 Industry Level의 “순조로운 이동”을 도울 수 있도록 기술적 난이도를 “매우” 낮추고 MCU의 모든 기능에 대한 제어를 매우 쉽게 할 수 있도록 함.
 
-![image](./image1.png)
+![image](./image1.PNG)
