@@ -14,3 +14,6 @@ Layer 구성으로, LLL에서 거의 공통된 Function 또는 Class Name을 가
 ### Maker가 Industry Level의 “순조로운 이동”을 도울 수 있도록 기술적 난이도를 “매우” 낮추고 MCU의 모든 기능에 대한 제어를 매우 쉽게 할 수 있도록 함.
 
 ![image](./image1.PNG)
+
+현재는 많은 부분이 자동화가 되어 첫째 시간에 실습하기 위해 준비한 만큼의 시간은 필요하지 않음.
+WindowsOS는 아직 미지원. 리눅스 기반 OS에서 작동 가능
