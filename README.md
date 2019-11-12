@@ -1,11 +1,10 @@
 # TargetExpert
 
 TargetExpert 프로젝트는 Target Machine(※ MCU)의 Firmware를 각각의 Target Machine 별로 만들어야 하는 불편함을
-제거하기 위한 Project입니다.
+제거하기 위한 Project입니다. <br />
 이는 Low-level Layer(이하 LLL), Middle-Level Layer(이하 MLL), High-Level Layer(이하 HLL)로 구성된 총 3단계의
 Layer 구성으로, LLL에서 거의 공통된 Function 또는 Class Name을 가진 API로 각각의 Target Machine을 별도로
-구성한 후, MLL로 완전히 공통된 Function 또는 Class Name으로 통합하여 마치 아두이노와 같은 기능을
-할 수 있도록 API화 시킨 임베디드용 Framework입니다.
+구성한 후, MLL로 완전히 공통된 Function 또는 Class Name으로 통합하여 마치 아두이노와 같은 기능을 할 수 있도록 API화 시킨 임베디드용 Framework입니다.
 
 ### MCU Firmware의 개발은 전자공학 및 컴퓨터공학의 전 지식이 혼합되어서 개발해야 하므로 난이도가 매우 높은 작업.
 ### 이를 조금이라도 줄이기 위해 Arduino 같은 Library Package 및 Hardware가 나왔으나 모든 기능에 대한 제어가 사실상 힘들다.
